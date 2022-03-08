@@ -22,6 +22,9 @@ public class B {
 			 System.out.println(d);
 			 
 
+            System.out.println("hello basky");			 
+			 
+			 
 		}
 
 
